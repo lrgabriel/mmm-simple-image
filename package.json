@@ -1,0 +1,22 @@
+{
+  "name": "mmm-simple-image",
+  "version": "0.1.0",
+  "description": "A simple module that displays a web image for Magic Mirror",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrgabriel/mmm-simple-image/"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "image"
+  ],
+  "author": "Ben Williams",
+  "license": "MIT",
+  "homepage": "https://github.com/lrgabriel/mmm-simple-image/#readme",
+  "dependencies": {
+    "request": "latest",
+    "express": "latest",
+    "body-parser" : "latest"
+    }
+}
